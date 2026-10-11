@@ -4,11 +4,11 @@ Tiles Gallery is a modern and responsive tile showcase website where users can e
 
 ## 🌐 Live Website
 
-🔗 **Live Demo:** https://home-tiles-dukan.vercel.app/
+🔗 **Live Demo:**
 
 ## 📂 GitHub Repository
 
-🔗 **GitHub:**https://github.com/wadud115/home-tiles-dukan.git
+🔗 **GitHub:**
 
 ---
 
